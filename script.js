@@ -23,7 +23,7 @@ for(var i=0;i<openBtn.length;i++)
 
         dialogBox.classList.remove('hidden');
         //class list identified by the first class that was present which was modal in our case - <div class="modal hidden"> therfore we wrote dialogeBox
-        overlay.classList.remove('hidden');
+        overlay.classList.remove('hidde');
         //class list identified by the first class hence we wrote overlay 
     })
 }
